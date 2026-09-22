@@ -1,4 +1,4 @@
-## 📄 Article: *Falsehoods Programmers Believe About Names* — Patrick McKenzie
+## Article: *Falsehoods Programmers Believe About Names* — Patrick McKenzie
 
 [https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
