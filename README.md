@@ -17,3 +17,7 @@ never question. As someone whose own name doesn't always fit neatly into
 Western-style forms, this one felt very relatable. It's a good reminder to
 design software for the people who will actually use it, not just for the
 "typical" user we imagine.
+
+### Comment by ij2298-oss
+
+I agree that the problem often starts with assumptions rather than the code itself. The points about names changing and not being unique made me think about using a separate user ID instead of treating a name as an account identifier. Even a simple sign-up form needs careful design so people do not have to change how they write their names just to use an app.
